@@ -39,3 +39,5 @@ There are two arguments for the command above.
 An example of the above command is:
 
 `python3 facet_mapper.py /home/christos/Desktop/SCiO_Projects/REGALE/spark/FacetMapR_spark_RYAX/ True`
+
+In the future maybe some more arguments will be included in order for a more customized execution, but for the time being (focus on spark) this approach is valid.

@@ -23,7 +23,7 @@ This folder contains the data produced from the first two parts of the tool (flo
 
 ## Requirement.txt
 
-There is a requirement.txt that contains the python libraries that are not included is base python and must me installed prior to the execution of the script.
+There is a requirement.txt that contains the python libraries that are not included is base python and must be installed prior to the execution of the script.
 
 ## Run the script
 
